@@ -1,0 +1,8 @@
+# Ignore old queries
+/queries/old/*
+
+# Ignore temporary files
+*~
+*.swp
+*.swo
+gitk.cmd*
